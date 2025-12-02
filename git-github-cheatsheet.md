@@ -1,21 +1,21 @@
-🚀 Git & GitHub Commands Cheat Shet
-
 ----
+# 🚀 Git & GitHub Commands Cheat Shet
+
 
 🔧 Basic Git Setup
 ---
-git config --global user.name "Your Name"
-git config --global user.email "you@example.com"
-git config --list
+- git config --global user.name "Your Name"
+- git config --global user.email "you@example.com"
+- git config --list
 
 ---
 📂 Create / Initialize Repo
-git init
-git clone <repo-url>
+- git init
+- git clone <repo-url>
 
 ---
 📁 Check File Status
-git status
+- git status
 
 ---
 ➕ Add Files to Staging
